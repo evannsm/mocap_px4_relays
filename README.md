@@ -1,4 +1,4 @@
-# mocap_px4_relays
+# Reusable ROS2 node for connecting arbitrary motion-capture systems to the PX4 EKF for visual odometry fusion. Also includes a full state relay for convenient logging and control inside ROS2 nodes.
 
 Mocap-agnostic relay nodes for bridging pose data to/from PX4. These nodes were extracted from [vicon4px4](https://github.com/evannsm/vicon4px4) so they can be reused with any motion capture source (Vicon, OptiTrack, etc.).
 
